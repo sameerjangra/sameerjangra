@@ -1,25 +1,19 @@
-# 👋 Hi, I’m Sameer Jangra
+## 💫 About Me:
 
-> A passionate Full‑Stack Developer from Hisar, India 🇮🇳
+🛠️ **I’m currently working on:**  
+Developing React Native apps and building real-world projects like MovieApp and CodeMaster.
 
----
+🤝 **I’m looking to collaborate on:**  
+Open-source full‑stack projects in React, Node.js, and MongoDB ecosystems.
 
-## 🐱‍💻 About Me:
+🌱 **I’m currently learning:**  
+React Native, TypeScript, and advanced deployment (CI/CD, Docker).
 
-- 🔭 I’m currently working on:  
-  Developing React Native apps and building real-world projects like MovieApp and CodeMaster.
-  
-- 👯 I’m looking to collaborate on:  
-  Open-source full‑stack projects, especially in React, Node.js, and MongoDB ecosystems.
-  
-- 🌱 I’m currently learning:  
-  React Native, TypeScript, and advanced deployment (Docker, CI/CD).
-  
-- 💬 Ask me about:  
-  JavaScript, React, Next.js, Node.js, Express, Tailwind CSS, Firebase, REST APIs.
-  
-- ⚡ Fun fact:  
-  I enjoy turning complex ideas into clean, user-friendly UIs — and binge-watching tech talks!
+💬 **Ask me about:**  
+JavaScript, React, Next.js, Node.js, Express, Tailwind CSS, Firebase, REST APIs.
+
+⚡ **Fun fact:**  
+I enjoy turning complex ideas into clean, user-friendly UIs — and binge-watching tech talks!
 
 ---
 
@@ -35,10 +29,14 @@
   <a href="https://www.linkedin.com/in/sameer-jangra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
 </p>
 
 ---
-## 🛠️ Tech Stack:
+
+## 💻 Tech Stack:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -61,10 +59,8 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
 
 ---
 

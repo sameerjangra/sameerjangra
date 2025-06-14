@@ -35,6 +35,7 @@
 ## 🛠️ Tech Stack:
 
 **Languages & Tools**  
+<p align="left">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
@@ -56,7 +57,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)  
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)  
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
+</p>
 ---
 
 ## 🚀 Top Projects:

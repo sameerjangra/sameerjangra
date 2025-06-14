@@ -5,11 +5,6 @@ I’m a passionate Full‑Stack Developer from Hisar focusing on creating scalab
 
 ---
 
-### 🔭 I’m currently working on  
-- [Project Name]: Short description of what you’re building  
-- [Portfolio link]: https://portfolio-nju7.onrender.com
-
----
 
 ### 👯 I’m looking to collaborate on  
 Open‑source full‑stack projects, especially in React, Node.js, and MongoDB ecosystems.
@@ -32,7 +27,7 @@ I enjoy creating developer tools and tutorials that help others learn.
 ---
 
 ### 📫 How to reach me  
-- Email: your.email@example.com  
+- Email: sameerjangra99913@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/sameer-jangra  
 - Portfolio: https://portfolio-nju7.onrender.com  
 - GitHub: https://github.com/sameerjangra
@@ -51,10 +46,6 @@ I enjoy creating developer tools and tutorials that help others learn.
 
 ---
 
-### 📊 GitHub Stats  
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameerjangra&theme=dark&show_icons=true&count_private=true)
-
----
 
 ### 🏆 Top Projects  
 - **[Netflix GPT](#)** – AI‑powered movie recommendation app (ChatGPT + Firebase)  

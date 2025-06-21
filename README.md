@@ -29,9 +29,7 @@ I enjoy turning complex ideas into clean, user-friendly UIs — and binge-watchi
   <a href="https://www.linkedin.com/in/sameer-jangra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
+  
 </p>
 
 ---

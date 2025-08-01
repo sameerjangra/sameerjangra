@@ -23,7 +23,7 @@ I enjoy turning complex ideas into clean, user-friendly UIs — and binge-watchi
   <a href="https://x.com/sameer___jangra" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/sameer___jangra/" target="_blank">
+  <a href="https://www.instagram.com/sameerrjangra/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sameer-jangra/" target="_blank">

@@ -119,7 +119,6 @@ I love turning ideas into AI-powered products that solve real-world problems.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **AI Invoice Extractor** | AI-powered OCR system for extracting structured invoice data using Vision LLMs | Python, FastAPI, OCR, GPT, Groq |
 | **Netflix GPT** | AI movie recommendation platform using LLMs and TMDB API | React, Firebase, GPT |
 | **Code Master** | Multi-language online compiler with live code execution | React, Compiler API |
 | **Movie App** | React Native application for movie discovery | React Native, TMDB |
